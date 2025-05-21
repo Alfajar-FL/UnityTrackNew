@@ -98,25 +98,8 @@
 
     <!-- REPORT -->
     <div class="up-report-section row g-4">
-      <div class="col-md-3">
-        <div class="details-table-card control-panel h-100">
-          <h4 class="mb-4">Up Report</h4>
-          <div class="select-time-container mb-3">
-            <label class="select-label text-left w-100 mb-2">Select Time</label>
-            <div class="select-wrapper">
-              <select class="time-select form-select w-100">
-                <option>Week</option>
-                <option>Month</option>
-                <option>Year</option>
-              </select>
-            </div>
-          </div>
-          <button class="custom-range-btn w-100 mb-3">Custom Range</button>
-          <button class="generate-report-btn w-100">Generate Report</button>
-        </div>
-      </div>
 
-      <div class="col-md-9">
+      <div class="col-md-12">
     <div class="details-table-card p-0 h-100">
       <div class="table-header p-3 d-flex justify-content-between align-items-center border-bottom border-dark">
         <div class="d-flex align-items-center">
